@@ -18,7 +18,6 @@ Point::Point(int pX, int pY)
 
 Point::~Point()
 {
-	//cout << "Boom";
 }
 
 int Point::getX() const
